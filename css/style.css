@@ -6,6 +6,8 @@ body, html {
   width: 100%;
   height: 100%;
   font-family: Apple Chancery, cursive;
+  margin: 20px 0 0 0;
+}
 
 .container, h1 {
   width: 80%;
